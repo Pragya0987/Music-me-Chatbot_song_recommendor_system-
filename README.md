@@ -49,10 +49,6 @@ In this project, we would be combining multiple services and open-source tools t
 * Based on the Emotion which the app perceives ,top songs are retrieved using **[Last.fm songs API](https://www.last.fm/)**.
 * Vibe along with the songs! 
 
-YOUTUBE LINK OF THE PROJECT 
-
-https://www.youtube.com/watch?v=aMF5vDRghFo
-
 
 ### Built With
   
